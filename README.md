@@ -18,8 +18,6 @@
 		* https://robjhyndman.com/hyndsight/tsibbles/
 	* Inspecting and filling gaps:
 		* https://cran.r-project.org/web/packages/tsibble/vignettes/implicit-na.html
-		
-		https://cran.r-project.org/package=fable
 
 ## R Approaches to temporal disaggregation
 
